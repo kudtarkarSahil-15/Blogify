@@ -10,6 +10,13 @@ Welcome to our blogging platform! I developed a secure and user-friendly platfor
 - Like and Comment on Blogs.
 - View others Profile and Update Your Own Profile.
 
+<p width="100%" align="center">
+<img width="24%" height="310px" alt="blogapp1" src="https://github.com/kudtarkarSahil-15/Blogify/assets/91777504/5628689b-0853-4552-9861-4d70d49cbe38">
+<img width="24%" height="310px" alt="blogapp2" src="https://github.com/kudtarkarSahil-15/Blogify/assets/91777504/8e20d277-b9fd-4288-966a-e1bbcf1b8003">
+<img width="24%" height="310px" alt="blogapp3" src="https://github.com/kudtarkarSahil-15/Blogify/assets/91777504/1fc0527d-09e9-4710-9320-b60472d7f5b9">
+<img width="24%" height="310px" alt="blogapp4" src="https://github.com/kudtarkarSahil-15/Blogify/assets/91777504/fc5c3c7b-13bc-4dfd-88f9-2ad4858704b3">
+</p>
+
 ### Tech Stack
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -19,3 +26,6 @@ Welcome to our blogging platform! I developed a secure and user-friendly platfor
 ### Hosting Platforms
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+
+
+
