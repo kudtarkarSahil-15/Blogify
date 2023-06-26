@@ -9,6 +9,8 @@ Welcome to our blogging platform! I developed a secure and user-friendly platfor
 - Read and Browse Different Categories of Blogs.
 - Like and Comment on Blogs.
 - View others Profile and Update Your Own Profile.
+- In Profile Section, also able to view all the blogs written by a blogger, along with their respective types.
+- Write a mail to a blogger.
 
 <p width="100%" align="center">
 <img width="24%" height="310px" alt="blogapp1" src="https://github.com/kudtarkarSahil-15/Blogify/assets/91777504/5628689b-0853-4552-9861-4d70d49cbe38">
